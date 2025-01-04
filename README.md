@@ -1,7 +1,7 @@
-## Hi👋, I am YSREI!
--Software Developer
--Based in the UK
--Studying at the University of Exeter
+## Hi👋, I am YSREI!  
+Software Developer  
+Based in the UK  
+Studying at the University of Exeter
 
 Currently working on an Intelligent Parking Management System with ANPR Integration.
 
