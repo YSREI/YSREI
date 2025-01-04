@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi👋, I am YSREI!
+Software Developer
+Based in UK
+Studying at the University of Exeter
+
+Currently working on an Intelligent Parking Management System with ANPR Integration.
 
 <!--
 **YSREI/YSREI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
